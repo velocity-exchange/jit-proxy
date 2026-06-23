@@ -943,7 +943,7 @@ dependencies = [
 [[package]]
 name = "drift"
 version = "2.140.0"
-source = "git+https://github.com/drift-labs/protocol-v2.git?tag=v2.140.0#d315d880dd85cc59f10e5f788c8c64d65d52cd76"
+source = "git+https://github.com/velocity-exchange/protocol-v2.git?tag=v2.140.0#d315d880dd85cc59f10e5f788c8c64d65d52cd76"
 dependencies = [
  "ahash 0.8.6",
  "anchor-lang",
@@ -978,7 +978,7 @@ dependencies = [
 [[package]]
 name = "drift-macros"
 version = "0.1.0"
-source = "git+https://github.com/drift-labs/drift-macros.git?rev=c57d87#c57d87e073d13d43f4d1fb09fe6822915a4ccc11"
+source = "git+https://github.com/velocity-exchange/drift-macros.git?rev=c57d87#c57d87e073d13d43f4d1fb09fe6822915a4ccc11"
 dependencies = [
  "quote",
  "syn 1.0.109",
@@ -1656,7 +1656,7 @@ checksum = "c08d65885ee38876c4f86fa503fb49d7b507c2b62552df7c70b2fce627e06381"
 [[package]]
 name = "openbook-v2-light"
 version = "0.1.0"
-source = "git+https://github.com/drift-labs/protocol-v2.git?tag=v2.140.0#d315d880dd85cc59f10e5f788c8c64d65d52cd76"
+source = "git+https://github.com/velocity-exchange/protocol-v2.git?tag=v2.140.0#d315d880dd85cc59f10e5f788c8c64d65d52cd76"
 dependencies = [
  "anchor-lang",
  "borsh 0.10.3",
@@ -1719,7 +1719,7 @@ checksum = "e3148f5046208a5d56bcfc03053e3ca6334e51da8dfb19b6cdc8b306fae3283e"
 [[package]]
 name = "phoenix-v1"
 version = "0.2.4"
-source = "git+https://github.com/drift-labs/phoenix-v1?rev=7703c5#7703c50cf92f2bb321dcd1e2824e1c041135ec5c"
+source = "git+https://github.com/velocity-exchange/phoenix-v1?rev=7703c5#7703c50cf92f2bb321dcd1e2824e1c041135ec5c"
 dependencies = [
  "borsh 0.10.3",
  "bytemuck",
@@ -1823,7 +1823,7 @@ checksum = "44de48029c54ec1ca570786b5baeb906b0fc2409c8e0145585e287ee7a526c72"
 [[package]]
 name = "pyth-lazer-protocol"
 version = "0.1.2"
-source = "git+https://github.com/drift-labs/pyth-crosschain?rev=d790d1cb4da873a949cf33ff70349b7614b232eb#d790d1cb4da873a949cf33ff70349b7614b232eb"
+source = "git+https://github.com/velocity-exchange/pyth-crosschain?rev=d790d1cb4da873a949cf33ff70349b7614b232eb#d790d1cb4da873a949cf33ff70349b7614b232eb"
 dependencies = [
  "anyhow",
  "byteorder",
@@ -1836,7 +1836,7 @@ dependencies = [
 [[package]]
 name = "pyth-lazer-solana-contract"
 version = "0.2.0"
-source = "git+https://github.com/drift-labs/pyth-crosschain?rev=d790d1cb4da873a949cf33ff70349b7614b232eb#d790d1cb4da873a949cf33ff70349b7614b232eb"
+source = "git+https://github.com/velocity-exchange/pyth-crosschain?rev=d790d1cb4da873a949cf33ff70349b7614b232eb#d790d1cb4da873a949cf33ff70349b7614b232eb"
 dependencies = [
  "anchor-lang",
  "bytemuck",
@@ -1849,7 +1849,7 @@ dependencies = [
 [[package]]
 name = "pyth-solana-receiver-sdk"
 version = "0.3.0"
-source = "git+https://github.com/drift-labs/pyth-crosschain?rev=3e8a24ecd0bcf22b787313e2020f4186bb22c729#3e8a24ecd0bcf22b787313e2020f4186bb22c729"
+source = "git+https://github.com/velocity-exchange/pyth-crosschain?rev=3e8a24ecd0bcf22b787313e2020f4186bb22c729#3e8a24ecd0bcf22b787313e2020f4186bb22c729"
 dependencies = [
  "anchor-lang",
  "hex",
@@ -1860,7 +1860,7 @@ dependencies = [
 [[package]]
 name = "pythnet-sdk"
 version = "2.1.0"
-source = "git+https://github.com/drift-labs/pyth-crosschain?rev=3e8a24ecd0bcf22b787313e2020f4186bb22c729#3e8a24ecd0bcf22b787313e2020f4186bb22c729"
+source = "git+https://github.com/velocity-exchange/pyth-crosschain?rev=3e8a24ecd0bcf22b787313e2020f4186bb22c729#3e8a24ecd0bcf22b787313e2020f4186bb22c729"
 dependencies = [
  "anchor-lang",
  "bincode",
@@ -2806,7 +2806,7 @@ checksum = "6bdef32e8150c2a081110b42772ffe7d7c9032b606bc226c8260fd97e0976601"
 [[package]]
 name = "switchboard"
 version = "0.1.0"
-source = "git+https://github.com/drift-labs/protocol-v2.git?tag=v2.140.0#d315d880dd85cc59f10e5f788c8c64d65d52cd76"
+source = "git+https://github.com/velocity-exchange/protocol-v2.git?tag=v2.140.0#d315d880dd85cc59f10e5f788c8c64d65d52cd76"
 dependencies = [
  "anchor-lang",
 ]
@@ -2814,7 +2814,7 @@ dependencies = [
 [[package]]
 name = "switchboard-on-demand"
 version = "0.1.0"
-source = "git+https://github.com/drift-labs/protocol-v2.git?tag=v2.140.0#d315d880dd85cc59f10e5f788c8c64d65d52cd76"
+source = "git+https://github.com/velocity-exchange/protocol-v2.git?tag=v2.140.0#d315d880dd85cc59f10e5f788c8c64d65d52cd76"
 dependencies = [
  "anchor-lang",
  "bytemuck",
